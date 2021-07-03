@@ -1,0 +1,16 @@
+C:\workspace\Meus Projetos DIO\dio.games\bin\Debug\net5.0\dio.games.exe
+C:\workspace\Meus Projetos DIO\dio.games\bin\Debug\net5.0\dio.games.deps.json
+C:\workspace\Meus Projetos DIO\dio.games\bin\Debug\net5.0\dio.games.runtimeconfig.json
+C:\workspace\Meus Projetos DIO\dio.games\bin\Debug\net5.0\dio.games.runtimeconfig.dev.json
+C:\workspace\Meus Projetos DIO\dio.games\bin\Debug\net5.0\dio.games.dll
+C:\workspace\Meus Projetos DIO\dio.games\bin\Debug\net5.0\ref\dio.games.dll
+C:\workspace\Meus Projetos DIO\dio.games\bin\Debug\net5.0\dio.games.pdb
+C:\workspace\Meus Projetos DIO\dio.games\obj\Debug\net5.0\dio.games.csprojAssemblyReference.cache
+C:\workspace\Meus Projetos DIO\dio.games\obj\Debug\net5.0\dio.games.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Meus Projetos DIO\dio.games\obj\Debug\net5.0\dio.games.AssemblyInfoInputs.cache
+C:\workspace\Meus Projetos DIO\dio.games\obj\Debug\net5.0\dio.games.AssemblyInfo.cs
+C:\workspace\Meus Projetos DIO\dio.games\obj\Debug\net5.0\dio.games.csproj.CoreCompileInputs.cache
+C:\workspace\Meus Projetos DIO\dio.games\obj\Debug\net5.0\dio.games.dll
+C:\workspace\Meus Projetos DIO\dio.games\obj\Debug\net5.0\ref\dio.games.dll
+C:\workspace\Meus Projetos DIO\dio.games\obj\Debug\net5.0\dio.games.pdb
+C:\workspace\Meus Projetos DIO\dio.games\obj\Debug\net5.0\dio.games.genruntimeconfig.cache
